@@ -45,3 +45,58 @@ Make your improvements and submit a pull request.
 
 Video Link In Google Drive
 https://drive.google.com/drive/folders/1cLHBoBNuuE_2JE2aieNwzivFqpljXYXP
+
+Problem Statement 
+Managing personal finances can be challenging without proper tracking and budgeting. FinSmart AI Budgeting provides an AI-powered solution to track expenses, set budgets, and predict future spending efficiently.
+
+Solution Overview 
+FinSmart AI Budgeting is an Android-based financial management app designed to help users track their expenses, set budgets, and predict future spending. It features AI-driven expense predictions, a savings calculator, and a budgeting tool to provide a comprehensive financial overview. The app ensures data persistence using SharedPreferences, allowing users to manage their finances efficiently over time. Its intuitive interface and real-time tracking empower users to make informed financial decisions and maintain better financial discipline.
+
+Team Leader Gnanaseelan V 
+Team Members
+Hari Hara Sudhan R
+Vishnu C
+Abhishek Kumar
+
+How to Use 
+Launch the App
+
+Open the FinSmart AI Budgeting app on your Android device.
+
+Set Your Budget
+
+Navigate to the Budget Entry section.
+
+Enter your total budget and save it.
+
+Add Expenses
+
+Go to the Expense Tracker section.
+
+Enter the amount spent and save the expense.
+
+View Expense Summary
+
+Open the Budget Summary section.
+
+Check your remaining budget and total expenses.
+
+Predict Future Expenses
+
+Click the Predict button to get an estimated monthly expense based on past spending.
+
+Delete Expenses (If needed)
+
+Use the Delete Expenses button to clear all recorded expenses.
+
+Navigate Between Features
+
+Use navigation buttons to switch between budget entry, summary, savings calculator, and expense tracking.
+
+Manage Savings
+
+Open the Savings Calculator to analyze and plan your savings.
+
+Exit the App
+
+Close the app after managing your finances. Your data will be saved automatically.
